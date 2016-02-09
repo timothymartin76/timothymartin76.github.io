@@ -15,10 +15,11 @@ Business Intelligence Manager with 12+ years of professional experience in advan
 
 ### R
 
-* <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmaps</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmaps</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">Association Rules - Network Graph</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmap</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">Association Rules - Network</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Market_Basket/master/grouped.PNG" target="_blank">Association Rules - Grouped Matrix</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/R-Likert-Survey/master/R_Likert_Survey_screenshot.png" target="_blank">Likert Survey Analysis</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny App Likert Analysis</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Decision_Trees/master/tree2.PNG" target="_blank">Decision Trees</a>
 
