@@ -22,6 +22,7 @@ Business Intelligence Manager with 12+ years of professional experience in advan
 * <a href="https://raw.githubusercontent.com/timothymartin76/R-Likert-Survey/master/R_Likert_Survey_screenshot.png" target="_blank">Likert Survey Analysis</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny App Likert Analysis</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Decision_Trees/master/tree2.PNG" target="_blank">Decision Trees</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/K_Means_Clustering/master/cluster_2.PNG" target="_blank">K-means Clustering</a>
 
 ### Maps
 
