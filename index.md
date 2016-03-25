@@ -18,10 +18,10 @@ Business Intelligence Manager with more than a decade of professional experience
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Crime_Heatmap/master/plot.PNG" target="_blank">2015 NYPD Heatmap</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">Association Rules - Network</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/Market_Basket/master/grouped.PNG" target="_blank">Association Rules - Grouped Matrix</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">311 Network Analysis</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/Market_Basket/master/grouped.PNG" target="_blank">Association Rules Matrix</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/R-Likert-Survey/master/R_Likert_Survey_screenshot.png" target="_blank">Likert Survey Analysis</a>
-* <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny App Likert Analysis</a>
+* <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Decision_Trees/master/tree2.PNG" target="_blank">Decision Trees</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/K_Means_Clustering/master/cluster_2.PNG" target="_blank">K-means Clustering</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Bayesian_Model/master/Bayesian.PNG" target="_blank">Bayesian Modeling</a>
