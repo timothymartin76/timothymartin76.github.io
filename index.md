@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-Business Intelligence Manager with 12+ years of professional experience in advanced data analytics, scientific research, and performance management. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
+Business Intelligence Manager with more than a decade of professional experience in advanced data analytics, scientific research, and performance management. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
 
 
 ### Analysis & Visualization Examples
@@ -17,6 +17,7 @@ Business Intelligence Manager with 12+ years of professional experience in advan
 
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmap</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/Crime_Heatmap/master/plot.PNG" target="_blank">2015 NYPD Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">Association Rules - Network</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Market_Basket/master/grouped.PNG" target="_blank">Association Rules - Grouped Matrix</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/R-Likert-Survey/master/R_Likert_Survey_screenshot.png" target="_blank">Likert Survey Analysis</a>
