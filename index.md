@@ -39,7 +39,7 @@ Data analytics professional with more than a decade of experience in advanced da
 * <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
 * <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
 * <a href="http://nyc311bi.github.io/SR_Bubble/" target="_blank">311 Complaints - Bubble Chart</a>
-* <a href="http://timothymartin76.github.io/311_Homeless_Encampments/" target="_blank">Complaints Time-Series</a>
+* <a href="http://timothymartin76.github.io/311_Homeless_Encampments/Aug2016" target="_blank">Homeless Complaints Time-Series</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
 * <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Presentation</a>
 
