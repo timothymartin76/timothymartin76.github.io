@@ -32,7 +32,7 @@ Data analytics professional with more than a decade of experience in advanced da
 * <a href="http://timothymartin76.github.io/CMBD_Felony/combined" target="_blank">NYC Major Felonies</a>
 * <a href="https://vimeo.com/137822077" target="_blank">The Building of NYC</a>
 * <a href="http://timothymartin76.github.io/Community_Board_Profiles_311/" target="_blank">Community Board Complaints</a>
-* <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic projection</a>
+* <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
 
 ### D3.js
 
