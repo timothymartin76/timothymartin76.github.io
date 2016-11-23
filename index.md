@@ -14,7 +14,7 @@ Data analytics professional with more than a decade of experience in advanced da
 ### Analysis & Visualization Examples
 
 ### R
-
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">ggplot2 dashboard</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">311 Network Analysis 1</a>
