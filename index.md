@@ -19,7 +19,7 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="https://raw.githubusercontent.com/timothymartin76/K_Means_Clustering/master/cluster_2.PNG" target="_blank">K-means Clustering</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Bayesian_Model/master/Bayesian.PNG" target="_blank">Bayesian Modeling</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/R_Heatmaps/master/heatmap.PNG" target="_blank">Hourly/Daily Heatmap</a>
+* <a href="https://timothymartin76.github.io/R_Heatmaps/Plotly_Heatmap" target="_blank">Hourly/Daily Heatmap</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/SS_LastMin/gh-pages/net.PNG" target="_blank">311 Network Analysis 1</a>
 * <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Market_Basket/master/grouped.PNG" target="_blank">Association Rules Matrix</a>
