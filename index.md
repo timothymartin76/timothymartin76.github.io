@@ -36,10 +36,12 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
 
 ### Visualizations
-* <a href="https://timothymartin76.github.io/R_Heatmaps/Plotly_Heatmap" target="_blank">Hourly/Daily Heatmap</a>
-* <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
-* <a href="http://timothymartin76.github.io/311_Homeless_Encampments/Oct2016" target="_blank">Homeless Complaints Time-Series</a>
-* <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://nyc311bi.github.io/SR_Bubble/" target="_blank">311 Complaints - Bubble Chart</a>
+* <a href="https://timothymartin76.github.io/R_Heatmaps/Plotly_Heatmap" target="_blank">Hourly/Daily Heatmap</a>
+* <a href="https://nycdob.github.io/Facades/" target="_blank">DOB Facades Report</a>
+* <a href="http://timothymartin76.github.io/311_Homeless_Encampments/Oct2016" target="_blank">Homeless Complaints Time-Series</a>
+* <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
+* <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
 * <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Presentation</a>
+
