@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-Data analytics professional with more than a decade of experience in business intelligence, scientific research, and performance management. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
+Data analytics professional with more than a decade of experience in business intelligence, scientific research, and performance management. Responsible for directing large technical teams and information management projects with a focus on designing curated data experiences for end users. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
 
 ### Analysis
 * <a href="https://raw.githubusercontent.com/timothymartin76/Decision_Trees/master/tree2.PNG" target="_blank">Decision Trees</a>
