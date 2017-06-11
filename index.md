@@ -43,5 +43,8 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
-* <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Presentation</a>
+
+### Presentations
+* <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
+* <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized</a>
 
