@@ -30,7 +30,7 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="http://timothymartin76.github.io/MAPS/Global_Trade/#Imports" target="_blank">Global Trade Imports/Exports</a>
 * <a href="https://timothymartin76.github.io/Felonies_2016_Map/" target="_blank">NYC Crime 2016</a>
 * <a href="http://timothymartin76.github.io/MAPS/grasslands.pdf" target="_blank">Global Grasslands</a>
-* <a href="https://timothymartin76.github.io/SST_MAP/SST_2015.pdf" target="_blank">Sea Surface Temperature</a>
+* <a href="https://timothymartin76.github.io/SST_MAP/SST_2015b.pdf" target="_blank">Sea Surface Temperature</a>
 * <a href="https://vimeo.com/137822077" target="_blank">The Building of NYC</a>
 * <a href="http://timothymartin76.github.io/Community_Board_Profiles_311/" target="_blank">Community Board Complaints</a>
 * <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
