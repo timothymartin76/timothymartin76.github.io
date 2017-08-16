@@ -20,7 +20,7 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
 
 ### Dashboards
-* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/two-and-one/" target="_blank">NYC Development</a>
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/two-and-one/DevReportsQtrs" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
 * <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
