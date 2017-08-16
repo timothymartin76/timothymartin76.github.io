@@ -19,6 +19,10 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="https://raw.githubusercontent.com/timothymartin76/R-Likert-Survey/master/R_Likert_Survey_screenshot.png" target="_blank">Likert Survey Analysis</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
 
+### Presentations
+* <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
+* <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Conference</a>
+
 ### Dashboards
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/two-and-one/DevReportsQtrs" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
@@ -44,7 +48,5 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
 
-### Presentations
-* <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
-* <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized</a>
+
 
