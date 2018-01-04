@@ -19,11 +19,9 @@ Data analytics professional with more than a decade of experience in business in
 * <a href="https://github.com/timothymartin76/R-Likert-Survey" target="_blank">Likert Survey</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
 
-### Presentations
+### Presentations / Articles
 * <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
 * <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Conference</a>
-
-### NY Times Articles
 * <a href="https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share" target="_blank">New York Building Boom</a>
 * <a href="https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur" target="_blank">NYC Sidewalk Sheds</a>
 
