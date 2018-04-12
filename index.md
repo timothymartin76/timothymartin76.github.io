@@ -17,6 +17,7 @@ Data analytics leader with more than a decade of experience in business intellig
 * <a href="https://nycdob.github.io/Facades/" target="_blank">DOB Facades Report</a>
 * <a href="https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur" target="_blank">NYC Sidewalk Sheds</a>
 * <a href="https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share" target="_blank">New York Building Boom</a>
+* <a href="https://www.nbcnewyork.com/on-air/as-seen-on/New-Tool-Tracks-Zombie-Scaffolding-in-NYC_New-York-479332143.html" target="_blank">New Tool Tracks Zombie Scaffolding in NYC</a>
 
 ### Dashboards
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Construction_Dashboard/Q4_2017" target="_blank">NYC Development</a>
