@@ -15,6 +15,7 @@ Data analytics leader with more than a decade of experience in business intellig
 * <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
 * <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Conference</a>
 * <a href="https://nycdob.github.io/Facades/" target="_blank">DOB Facades Report</a>
+* <a href="https://www.nytimes.com/2018/06/14/realestate/sidewalk-construction-sheds-daily-count.html" target="_blank">All the City’s Sidewalk Sheds</a>
 * <a href="https://www.nytimes.com/2017/05/02/nyregion/new-york-has-280-miles-of-scaffolding-and-a-map-to-navigate-it.html?smid=tw-nytmetro&smtyp=cur" target="_blank">NYC Sidewalk Sheds</a>
 * <a href="https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share" target="_blank">New York Building Boom</a>
 * <a href="https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time" target="_blank">Sidewalk Sheds Tracked in Real-Time</a>
