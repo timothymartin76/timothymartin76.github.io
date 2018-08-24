@@ -11,6 +11,8 @@ image:
 Data analytics leader with more than a decade of experience in business intelligence, scientific research, and performance management. Responsible for directing large technical teams and information management projects with a focus on designing curated data experiences for end users. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
 
 ### Presentations / Articles
+* <a href="https://www.nytimes.com/2018/08/21/nyregion/construction-map-buildings-department.html?smtyp=cur&smid=tw-nytmetro" target="_blank">Real-Time Map Tracks NYC Building Frenzy</a>
+* <a href="http://gothamist.com/2018/08/22/new_real-time_construction_on_your.php" target="_blank">Real-Time Construction On Your Block Map</a>
 * <a href="https://nycdob.github.io/CDAO_2018" target="_blank">CDAO 2018 Data Sharing</a>
 * <a href="https://nycdob.github.io/presentations/NYC_Development_ERS" target="_blank">Analytics for Smart Cities</a>
 * <a href="http://timothymartin76.github.io/Visualized_Draft" target="_blank">311 Visualized Conference</a>
