@@ -41,6 +41,7 @@ Data analytics leader with more than a decade of experience in business intellig
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
 
 ### Maps
+* <a href="https://nycdob.github.io/Maps/Building_Profiles/" target="_blank">NYC Building Profiles</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
 * <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
 * <a href="http://www1.nyc.gov/assets/buildings/html/sidewalk-shed-map.html" target="_blank">Real-Time Sidewalk Sheds</a>
