@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-Data analytics leader with more than a decade of experience in business intelligence, scientific research, and performance management. Responsible for directing large technical teams and information management projects with a focus on designing curated data experiences for end users. Expert in identifying and interpreting trends and patterns in large and varied datasets, and producing informative metrics and interactive visualizations which drive business decisions. Extensive experience using various BI tools and statistical analysis packages. Skilled at developing front-end applications and dashboards for evaluation of disparate data sources, including optimization in GIS and smart grid applications. 
+Leader in data analytics strategy with expertise in directing cross-functional analytics, data science, and development teams. Specific background with agencies governing construction, infrastructure, and tech projects in NYC. Expert in simplifying and communicating complex information and methodologies. Skilled at cleaning and transforming raw data into actionable information via custom-designed web applications, maps, and dashboards.
 
 ### Presentations / Articles
 * <a href="https://www.nytimes.com/2018/08/21/nyregion/construction-map-buildings-department.html?smtyp=cur&smid=tw-nytmetro" target="_blank">Real-Time Map Tracks NYC Building Frenzy</a>
@@ -58,7 +58,6 @@ Data analytics leader with more than a decade of experience in business intellig
 * <a href="http://timothymartin76.github.io/311_Homeless_SRs/" target="_blank">Homeless Complaints Time-Series</a>
 * <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
-* <a href="https://timothymartin76.github.io/R_Heatmaps/Plotly_Heatmap" target="_blank">Hourly/Daily Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
 
 
