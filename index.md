@@ -23,7 +23,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time" target="_blank">Sidewalk Sheds Tracked in Real-Time</a>
 
 ### Dashboards
-* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Construction_Dashboard/Q4_2017" target="_blank">NYC Development</a>
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Construction_Dashboard/Q2_2018" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
 * <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/dob-filing.html" target="_blank">Real-Time Job Filings</a>
