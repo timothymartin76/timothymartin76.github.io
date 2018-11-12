@@ -32,10 +32,10 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
 
 ### Data Analysis (R scripts)
+* <a href="https://github.com/timothymartin76/Market_Basket" target="_blank">Association Rules</a>
 * <a href="https://github.com/timothymartin76/Decision_Trees" target="_blank">Decision Trees</a>
 * <a href="https://github.com/timothymartin76/K_Means_Clustering" target="_blank">K-means Clustering</a>
 * <a href="https://github.com/timothymartin76/Bayesian_Model" target="_blank">Bayesian Modeling</a>
-* <a href="https://github.com/timothymartin76/Market_Basket" target="_blank">311 Network Analysis 1</a>
 * <a href="https://github.com/timothymartin76/Flex_Dashboards/blob/gh-pages/Illegal_Conversions.Rmd" target="_blank">Flex Markdown</a>
 * <a href="https://github.com/timothymartin76/R-Likert-Survey" target="_blank">Likert Survey</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
@@ -56,7 +56,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 ### Visualizations
 * <a href="http://nyc311bi.github.io/SR_Bubble/" target="_blank">311 Complaints - Bubble Chart</a>
 * <a href="http://timothymartin76.github.io/311_Homeless_SRs/" target="_blank">Homeless Complaints Time-Series</a>
-* <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis 2</a>
+* <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
 
