@@ -22,6 +22,19 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share" target="_blank">New York Building Boom</a>
 * <a href="https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time" target="_blank">Sidewalk Sheds Tracked in Real-Time</a>
 
+### Maps
+* <a href="https://nycdob.github.io/DOB_Building_Profiles/" target="_blank">NYC Building Profiles</a>
+* <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
+* <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
+* <a href="http://www1.nyc.gov/assets/buildings/html/sidewalk-shed-map.html" target="_blank">Real-Time Sidewalk Sheds</a>
+* <a href="http://timothymartin76.github.io/MAPS/Global_Trade/#Imports" target="_blank">Global Trade Imports/Exports</a>
+* <a href="https://timothymartin76.github.io/Felonies_2016_Map/" target="_blank">NYC Crime 2016</a>
+* <a href="http://timothymartin76.github.io/MAPS/grasslands.pdf" target="_blank">Global Grasslands</a>
+* <a href="https://timothymartin76.github.io/SST_MAP/SST_2015b.pdf" target="_blank">Sea Surface Temperature</a>
+* <a href="https://vimeo.com/137822077" target="_blank">The Building of NYC</a>
+* <a href="http://timothymartin76.github.io/Community_Board_Profiles_311/" target="_blank">Community Board Complaints</a>
+* <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
+
 ### Dashboards
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Construction_Dashboard/Q2_2018" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
@@ -39,19 +52,6 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://github.com/timothymartin76/Flex_Dashboards/blob/gh-pages/Illegal_Conversions.Rmd" target="_blank">Flex Markdown</a>
 * <a href="https://github.com/timothymartin76/R-Likert-Survey" target="_blank">Likert Survey</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
-
-### Maps
-* <a href="https://nycdob.github.io/DOB_Building_Profiles/" target="_blank">NYC Building Profiles</a>
-* <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
-* <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
-* <a href="http://www1.nyc.gov/assets/buildings/html/sidewalk-shed-map.html" target="_blank">Real-Time Sidewalk Sheds</a>
-* <a href="http://timothymartin76.github.io/MAPS/Global_Trade/#Imports" target="_blank">Global Trade Imports/Exports</a>
-* <a href="https://timothymartin76.github.io/Felonies_2016_Map/" target="_blank">NYC Crime 2016</a>
-* <a href="http://timothymartin76.github.io/MAPS/grasslands.pdf" target="_blank">Global Grasslands</a>
-* <a href="https://timothymartin76.github.io/SST_MAP/SST_2015b.pdf" target="_blank">Sea Surface Temperature</a>
-* <a href="https://vimeo.com/137822077" target="_blank">The Building of NYC</a>
-* <a href="http://timothymartin76.github.io/Community_Board_Profiles_311/" target="_blank">Community Board Complaints</a>
-* <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
 
 ### Visualizations
 * <a href="http://nyc311bi.github.io/SR_Bubble/" target="_blank">311 Complaints - Bubble Chart</a>
