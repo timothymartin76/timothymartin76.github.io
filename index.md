@@ -22,7 +22,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://www.nytimes.com/2017/11/30/realestate/construction-permits-and-a-new-york-building-boom.html?smid=tw-share" target="_blank">New York Building Boom</a>
 * <a href="https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time" target="_blank">Sidewalk Sheds Tracked in Real-Time</a>
 
-### Maps
+### Maps / Applications
 * <a href="https://nycdob.github.io/DOB_Building_Profiles/" target="_blank">NYC Building Profiles</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
 * <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
@@ -44,7 +44,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
 
-### Data Analysis (R scripts)
+### Data Analysis / Scripts
 * <a href="https://github.com/timothymartin76/Market_Basket" target="_blank">Association Rules</a>
 * <a href="https://github.com/timothymartin76/Decision_Trees" target="_blank">Decision Trees</a>
 * <a href="https://github.com/timothymartin76/K_Means_Clustering" target="_blank">K-means Clustering</a>
