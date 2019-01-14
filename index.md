@@ -25,6 +25,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 ### Maps / Applications
 * <a href="https://nycdob.github.io/DOB_Building_Profiles/" target="_blank">NYC Building Profiles</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
+* <a href="https://nycdob.github.io/DOB_NOW_Milestone_App/index_overview" target="_blank">DOB NOW Job Filing Tracker</a>
 * <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
 * <a href="http://www1.nyc.gov/assets/buildings/html/sidewalk-shed-map.html" target="_blank">Real-Time Sidewalk Sheds</a>
 * <a href="http://timothymartin76.github.io/MAPS/Global_Trade/#Imports" target="_blank">Global Trade Imports/Exports</a>
