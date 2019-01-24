@@ -11,6 +11,7 @@ image:
 Leader in data analytics strategy with expertise in directing cross-functional analytics, data science, and development teams. Specific background with agencies governing construction, infrastructure, and tech projects in NYC. Expert in simplifying and communicating complex information and methodologies. Skilled at cleaning and transforming raw data into actionable information via custom-designed web applications, maps, and dashboards.
 
 ### Presentations / Articles
+* <a href="https://www.crainsnewyork.com/real-estate/end-era-construction-permits-declined-2018" target="_blank">NYC Construction downturn in 2018</a>
 * <a href="https://www.nytimes.com/2018/08/21/nyregion/construction-map-buildings-department.html?smtyp=cur&smid=tw-nytmetro" target="_blank">Real-Time Map Tracks NYC Building Frenzy</a>
 * <a href="http://gothamist.com/2018/08/22/new_real-time_construction_on_your.php" target="_blank">Construction On Your Block Map</a>
 * <a href="https://nycdob.github.io/CDAO_2018" target="_blank">CDAO 2018 Data Sharing</a>
