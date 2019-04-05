@@ -11,6 +11,7 @@ image:
 Leader in data analytics strategy with expertise in directing cross-functional analytics, data science, and development teams. Specific background with agencies governing construction, infrastructure, and tech projects in NYC. Expert in simplifying and communicating complex information and methodologies. Skilled at cleaning and transforming raw data into actionable information via custom-designed web applications, maps, and dashboards.
 
 ### Presentations / Articles
+* <a href="https://therealdeal.com/2019/03/08/new-dob-maps-shows-all-building-violations-permits-issued-in-past-12-months" target="_blank">Building Profiles Map</a>
 * <a href="https://www.crainsnewyork.com/real-estate/end-era-construction-permits-declined-2018" target="_blank">NYC Construction downturn in 2018</a>
 * <a href="https://www.nytimes.com/2018/08/21/nyregion/construction-map-buildings-department.html?smtyp=cur&smid=tw-nytmetro" target="_blank">Real-Time Map Tracks NYC Building Frenzy</a>
 * <a href="http://gothamist.com/2018/08/22/new_real-time_construction_on_your.php" target="_blank">Construction On Your Block Map</a>
@@ -24,7 +25,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://ny.curbed.com/2018/4/11/17226456/nyc-sidewalk-shed-map-real-time" target="_blank">Sidewalk Sheds Tracked in Real-Time</a>
 
 ### Maps / Applications
-* <a href="https://nycdob.github.io/DOB_Building_Profiles/" target="_blank">NYC Building Profiles</a>
+* <a href="https://www1.nyc.gov/assets/buildings/html/dob-building-profiles.html" target="_blank">NYC Building Profiles</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
 * <a href="https://nycdob.github.io/DOB_NOW_Milestone_App/index_overview" target="_blank">DOB NOW Job Filing Tracker</a>
 * <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
