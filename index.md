@@ -27,7 +27,6 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 ### Maps / Applications
 * <a href="https://www1.nyc.gov/assets/buildings/html/dob-building-profiles.html" target="_blank">NYC Building Profiles</a>
 * <a href="https://www1.nyc.gov/assets/buildings/html/nyc-active-major-construction.html" target="_blank">NYC Active Major Construction</a>
-* <a href="https://nycdob.github.io/DOB_NOW_Milestone_App/index_overview" target="_blank">DOB NOW Job Filing Tracker</a>
 * <a href="http://timothymartin76.github.io/MAPS/CartoVL/Durst" target="_blank">Durst Properties</a>
 * <a href="http://www1.nyc.gov/assets/buildings/html/sidewalk-shed-map.html" target="_blank">Real-Time Sidewalk Sheds</a>
 * <a href="http://timothymartin76.github.io/MAPS/Global_Trade/#Imports" target="_blank">Global Trade Imports/Exports</a>
@@ -42,7 +41,6 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://www1.nyc.gov/assets/buildings/html/dob-development-report.html" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
 * <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
-* <a href="https://www1.nyc.gov/assets/buildings/html/dob-filing.html" target="_blank">Real-Time Job Filings</a>
 * <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
 * <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
 * <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
