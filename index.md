@@ -40,6 +40,7 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 ### Dashboards
 * <a href="https://www1.nyc.gov/assets/buildings/html/dob-development-report.html" target="_blank">NYC Development</a>
 * <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/thirds-grid/DOBNOW_Daily" target="_blank">DOB NOW Daily</a>
 * <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
 * <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
 * <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
