@@ -37,15 +37,6 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="http://timothymartin76.github.io/Community_Board_Profiles_311/" target="_blank">Community Board Complaints</a>
 * <a href="http://timothymartin76.github.io/MAPS/World_Polyconic_Projection" target="_blank">World Polyconic Projection</a>
 
-### Dashboards
-* <a href="https://www1.nyc.gov/assets/buildings/html/dob-development-report-2018.html" target="_blank">NYC Construction</a>
-* <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
-* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/thirds-grid/DOBNOW_Daily" target="_blank">DOB NOW Daily</a>
-* <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
-* <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
-* <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
-* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
-
 ### Data Analysis / Scripts
 * <a href="https://github.com/timothymartin76/Market_Basket" target="_blank">Association Rules</a>
 * <a href="https://github.com/timothymartin76/Decision_Trees" target="_blank">Decision Trees</a>
@@ -54,6 +45,15 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://github.com/timothymartin76/Flex_Dashboards/blob/gh-pages/Illegal_Conversions.Rmd" target="_blank">Flex Markdown</a>
 * <a href="https://github.com/timothymartin76/R-Likert-Survey" target="_blank">Likert Survey</a>
 * <a href="http://timothymartin76.github.io/Likert-Survey-Shiny/" target="_blank">Shiny Likert Application</a>
+
+### Dashboards
+* <a href="https://www1.nyc.gov/assets/buildings/html/dob-development-report-2018.html" target="_blank">NYC Construction</a>
+* <a href="https://timothymartin76.github.io/Flex_Dashboards/Illegal_Conversions" target="_blank">Complaints & Inspections</a>
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/thirds-grid/DOBNOW_Daily" target="_blank">DOB NOW Daily</a>
+* <a href="https://timothymartin76.github.io/NYC_Felony/" target="_blank">NYC Major Felonies</a>
+* <a href="http://timothymartin76.github.io/Performance_Dashboard_2/" target="_blank">Performance Dashboard 1</a>
+* <a href="http://timothymartin76.github.io/Dashboard-D3/" target="_blank">Performance Dashboard 2</a>
+* <a href="https://nycdob.github.io/DOB_Dashboards/layouts/Borough_Performance/" target="_blank">Borough Performance</a>
 
 ### Visualizations
 * <a href="http://nyc311bi.github.io/SR_Bubble/" target="_blank">311 Complaints - Bubble Chart</a>
