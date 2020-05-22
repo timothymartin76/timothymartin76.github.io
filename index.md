@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-Leader in data analytics strategy with expertise in directing cross-functional analytics, data science, and development teams. Specific background with agencies governing construction, infrastructure, and tech projects in NYC. Expert in simplifying and communicating complex information and methodologies. Skilled at cleaning and transforming raw data into actionable information via custom-designed web applications, maps, and dashboards.
+Leader in data analytics strategy with expertise in directing cross-functional analytics, data science, and product development teams. Specific background with agencies governing construction, infrastructure, and tech projects in NYC. Expert in simplifying and communicating complex information and methodologies. Skilled at cleaning and transforming raw data into actionable information via custom-designed web applications, maps, and dashboards.
 
 ### Presentations / Articles
 * <a href="https://therealdeal.com/2019/03/08/new-dob-maps-shows-all-building-violations-permits-issued-in-past-12-months" target="_blank">Building Profiles Map</a>
