@@ -61,6 +61,3 @@ Leader in data analytics strategy with expertise in directing cross-functional a
 * <a href="https://vimeo.com/160318121" target="_blank">311 Network Analysis</a>
 * <a href="https://raw.githubusercontent.com/timothymartin76/Calendar_Heatmaps/master/heatmap.PNG" target="_blank">Calendar Heatmap</a>
 * <a href="http://timothymartin76.github.io/SS_LastMin/examples/coffee" target="_blank">Major Coffee Exporters</a>
-
-### Websites
-* <a href="http://saferdevelopment.com/index.html" target="_blank">Safer Development & Management</a>
